@@ -1,0 +1,20 @@
+.elementor-kit-6{--e-global-color-primary:#D65A31;--e-global-color-secondary:#393E46;--e-global-color-text:#000000;--e-global-color-accent:#61CE70;--e-global-typography-primary-font-family:"Spartan";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.elementor-widget:not(:last-child){margin-bottom:20px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}}/* Start custom CSS */#my-post .post-meta {
+    height: 0;
+}
+
+#my-post .post__date-link {
+    background: #ff0000;
+    color: #fff;
+    padding: 10px 10px 5px;
+    border-radius: 5px;
+}
+
+#my-post .jet-posts__inner-content {
+    position: relative;
+}
+
+#my-post .jet-posts__inner-content .post__date-link {
+    position: absolute;
+    top: -25px;
+    left: 15px;
+}/* End custom CSS */
